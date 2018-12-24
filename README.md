@@ -1,0 +1,1 @@
+This project downlowd a html page using selenium for broeser automation and BeautifulSOup as web parser.
